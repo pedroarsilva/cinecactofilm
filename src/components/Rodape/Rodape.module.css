@@ -1,0 +1,21 @@
+.rodape {
+  position: unset;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--preto);
+}
+
+/* .rodape img {
+  position: fixed;
+  left: 12em;
+  margin: -45px;
+} */
+.rodape h4 { 
+  font-size: 16px;
+  color: var(--cinza);
+  text-decoration: none;
+  font-weight: 700;
+}
